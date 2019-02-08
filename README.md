@@ -7,13 +7,12 @@ My Island Resort
 <p>Some of its features are:</p>
 <ul>
 <li>It has majestic views of the ocean.</li>
-
 <li>White sandy beaches ideal for slow, relaxing walks.</li>
-
 <li>5 star rating</li>
+<li>All inclusive activities</li>
 </ul>
 
-##Support and contact details
+## Support and contact details
 <p>In case of any questions, ideas or contributions, feel free to contact us on either via telephone or email.</p>
 <p>Our telephone contacts are: 
  <ul>
