@@ -8,8 +8,8 @@ Island Vibes Resort
 <ul>
 <li>It has majestic views of the ocean.</li>
 <li>White sandy beaches ideal for slow, relaxing walks.</li>
-<li>5 star rating</li>
-<li>All inclusive activities</li>
+<li>5 star rating.</li>
+<li>All inclusive activities.</li>
 </ul>
 
 ## Support and contact details
