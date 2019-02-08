@@ -1,5 +1,5 @@
-My Island Resort
-#### A brief description of the Island Resort, 8/2/2019
+Island Vibes Resort
+#### A brief description of the Island Vibes Resort, 8/2/2019
 #### By **Ephraim Kamau**
 
 ## Description
